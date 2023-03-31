@@ -2,9 +2,7 @@
 
 ### Sobre
 
-- **Desenvolvedor Front-end com experiência em React, TypeScript, Javascript, StyledComponentes, Html, Css, Sass, Bootstrap;**
-
-- **Tenho interesse em ser Desenvolvedor FullStack;**
+- **Desenvolvedor Front-end com experiência em HTML | CSS3 | SCSS | Javascript | jQuery | Bootstrap 5**
 
 -**Faço montagem e manutenção de computadores desde de 2013 e meu maior interesse sempre foi a área de tecnologia.
 Estudei programação de 2013 a meados de 2014 mas por motívos de força maior, tive que deixar os estudos para trabalhar em outra área. 
@@ -13,10 +11,9 @@ Desde agosto de 2022 tenho focado 100% do meu tempo aos estudos de programação
 ### Skills
 
 <div>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/jQuery-20232A?style=for-the-badge&logo=jQuery&logoColor=61DAFB">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -28,10 +25,8 @@ Desde agosto de 2022 tenho focado 100% do meu tempo aos estudos de programação
 <div>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=whit" />
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=whit" />
+    
 </div>
 
 ### Pretendo Estudar
@@ -39,9 +34,8 @@ Desde agosto de 2022 tenho focado 100% do meu tempo aos estudos de programação
 <div>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=whit" />
 </div>
     
 ### Ferramentas e IDES
