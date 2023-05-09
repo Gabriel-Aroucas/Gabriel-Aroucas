@@ -2,11 +2,14 @@
 
 ### Sobre
 
-- **Desenvolvedor Front-end com experiência em HTML | CSS3 | SCSS | Javascript | jQuery | Bootstrap 5**
+Estudo desenvolvimento web a há  1ano  e crio soluções práticas, matendo sempre um código limpo e um design responsívo para todos os dispositivos.
 
--**Faço montagem e manutenção de computadores desde de 2013 e meu maior interesse sempre foi a área de tecnologia.
-Estudei programação de 2013 a meados de 2014 mas por motívos de força maior, tive que deixar os estudos para trabalhar em outra área. 
-Desde agosto de 2022 tenho focado 100% do meu tempo aos estudos de programação e inglês de forma autodidata.**
+Atualmente desenvolvo e faço a gestão dos meus projetos usando as seguintes linguagens e ferramentas:
+ #### - HTML5 | CSS3  | SCSS | Javascript | jQuery | Figma | Adobe Photoshop
+
+Para criação e manutenção dos arquivos ultilizo Comandos Shell para aprimorar meu conhecimento com a plataforma Linux, e para armazenamento dos meus projetos, utilizo o  <b> Git/Github e o Netlify.</b>
+
+Atualmente estudo <b>React Framework</b> e  <b>Node.js</b> 
 
 ### Skills
 
@@ -24,17 +27,12 @@ Desde agosto de 2022 tenho focado 100% do meu tempo aos estudos de programação
 
 <div>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-    
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </div>
 
 ### Pretendo Estudar
 
 <div>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=whit" />
 </div>
     
