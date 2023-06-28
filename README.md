@@ -7,7 +7,7 @@ Estudo desenvolvimento web a há  1 ano  e crio soluções práticas, matendo se
 Atualmente desenvolvo e faço a gestão dos meus projetos usando as seguintes linguagens e ferramentas:
  #### - HTML5 | CSS3  | SCSS |Typescript | Javascript | jQuery | Figma | Adobe Photoshop
 
-Para criação e manutenção dos arquivos ultilizo Comandos Shell para aprimorar meu conhecimento com a plataforma Linux, e para armazenamento dos meus projetos, utilizo o  <b> Git/Github e o Netlify.</b>
+Para criação e manutenção dos arquivos ultilizo Comandos Shell para aprimorar meu conhecimento com a plataforma Linux, e para armazenamento dos meus projetos, utilizo o  <b> Git/Github, Netlify e vercel.</b>
 
 Atualmente estudo <b>React Framework</b> e  <b>Typescript</b> 
 
