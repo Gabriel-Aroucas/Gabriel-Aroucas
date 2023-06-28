@@ -58,7 +58,7 @@ Atualmente estudo <b>React Framework</b> e  <b>Typescript</b>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-aroucas&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-aroucas)](https://github.com/anuraghazra/github-readme-stats)
 <div style="text-align:start">
-  <img src="https://www.temi.co.uk/wp-content/Funny-man.gif" width="374px" height="273px" >
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="374px" height="273px" >
 </div>
 
 ![Snake Animation](https://github.com/ErykTavares/ErykTavares/blob/output/github-contribution-grid-snake.svg)
