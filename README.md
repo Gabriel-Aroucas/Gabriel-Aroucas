@@ -2,7 +2,7 @@
 
 ### Leia um pouco sobre mim
 
-Estudo desenvolvimento web a há  1 ano  e crio soluções práticas, matendo sempre um código limpo e um design responsívo para todos os dispositivos.
+Estudo desenvolvimento web a há  quase 2 anos  e crio soluções práticas, matendo sempre um código limpo e um design responsívo para todos os dispositivos.
 
 Atualmente desenvolvo e faço a gestão dos meus projetos usando as seguintes linguagens e ferramentas:
  #### - HTML5 | CSS3  | SCSS |Typescript | Javascript | jQuery | Figma | Adobe Photoshop
