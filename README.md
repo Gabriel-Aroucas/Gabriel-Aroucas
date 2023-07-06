@@ -51,7 +51,7 @@ Atualmente estudo <b>React Framework</b> e  <b>Typescript</b>
 <a href="https://www.linkedin.com/in/gabriel-aroucas-244348265/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.facebook.com/gabrielaroucas" rel="noreferrer"  target="_blank"><img src="https://img.shields.io/badge/facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="http://api.whatsapp.com/send?phone=5521993084201" rel="noreferrer"  target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://arcs-portfolio.netlify.app/" rel="noreferrer"  target="_blank"><img src="https://gist.githubusercontent.com/ErykTavares/528eac5ed103738a97a46459235e2ba8/raw/1c60194da1fe1afd8028941d2d9a441bf816ef3c/portifolio.svg"></a>
+<a href="https://port2-kappa.vercel.app" rel="noreferrer"  target="_blank"><img src="https://gist.githubusercontent.com/ErykTavares/528eac5ed103738a97a46459235e2ba8/raw/1c60194da1fe1afd8028941d2d9a441bf816ef3c/portifolio.svg"></a>
 
 ---
 
