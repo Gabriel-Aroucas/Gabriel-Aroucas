@@ -2,14 +2,6 @@
   <img src="https://media.tenor.com/kzMUk2-LgL8AAAAi/welcome.gif"/>
 </div>
 
-# Meu nome é Gabriel Pereira Aroucas
-
-### Um pouco sobre mim
-
-Estudo desenvolvimento web a há 2 anos  e crio soluções práticas, matendo sempre um código limpo e um design responsívo para todos os dispositivos.
-Atualmente, tenho certificado de Desenvolvedor web (200 horas) pelo Instituto Federal do Rio Grande do Sul onde desenvolvi melhor raciocínio lógico e boas práticas usando html/css/js.
-Estudo de forma autodidata e em breve iniciarei na faculdade de análise e desenvolvimento de sistemas.
-
 # Desenvolvimento dos Projetos
 ### Oque Utilizo:
 <div>
@@ -18,27 +10,13 @@ Estudo de forma autodidata e em breve iniciarei na faculdade de análise e desen
     <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
 <div>
- 
- ### Oque estudo
-<p><strong>ReactJS:</strong> UseState e UseEffects, Melhores práticas de componentização</p> 
-<p><strong>Typescript:</strong> Tipagem correta </p>
-<p><strong>Api: </strong>Integração e desenvolvimento</p>
-</div>
- 
+
 ### Pretendo Estudar
 <div>
  <img src="https://img.shields.io/badge/postgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
  <img src="https://img.shields.io/badge/API%20REST-199308?style=for-the-badge&logo">
  
 </div>
-
-
-### Hábitos meus
-Gosto de procurar por novas bibliotecas e extensões que agilizam meu trabalho.
-
- ## Manutenção dos Projetos
-Para criação e manutenção dos arquivos ultilizo sempre Comandos Shell para aprimorar meu conhecimento com a plataforma Linux, e para armazenamento dos meus projetos, utilizo o  <strong>Github, Netlify e vercel.</strong>
-
 
 ### Bibliotecas alternativas
 Algumas libs que tenho conhecimento por ja ter utilizado em alguns de meus projetos
