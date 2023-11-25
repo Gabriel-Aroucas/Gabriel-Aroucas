@@ -7,7 +7,8 @@
 <div>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img src="https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+    <img src="https://img.shields.io/badge/Styled%20Components-bf4f74?style=for-the-badge&logo=styledcomponents&logoColor=white">
+  
 </div>
 <div>
 
@@ -26,9 +27,9 @@ Algumas libs que tenho conhecimento por ja ter utilizado em alguns de meus proje
     <img src="https://img.shields.io/badge/jQuery%20UI-faa523?style=for-the-badge&logo=jQuery&logoColor=61DAFB%22">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/tailwind-20232A?style=for-the-badge&logo=tailwindcss&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white">
     <img src="https://img.shields.io/badge/Less-2a4c80?style=for-the-badge&logo=less&logoColor=white">
     <img src="https://img.shields.io/badge/axios-white?style=for-the-badge&logo=axios&logoColor=purple">
-    <img src="https://img.shields.io/badge/Styled%20Components-bf4f74?style=for-the-badge&logo=styledcomponents&logoColor=white">
     
 </div>
     
